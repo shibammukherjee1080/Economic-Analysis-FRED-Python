@@ -1,4 +1,4 @@
-# Economic Data Analysis with FRED & Python
+# American States Economic Data Analysis during Crisis with FRED & Python
 
 ## Description
 This project utilizes the Federal Reserve Economic Data (FRED) API and Python libraries to extract and analyze a significant amount of economic data, focusing on unemployment rates and labor force participation. The analysis aims to uncover trends and changes over time, particularly during periods of economic crisis. This project demonstrates proficiency in data extraction, analysis, and visualization using Python libraries such as Pandas and Matplotlib.
